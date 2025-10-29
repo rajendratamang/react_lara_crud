@@ -1,0 +1,38 @@
+# 🧩 Laravel 12 + React Starter Project
+
+A modern full-stack application boilerplate built with **Laravel 12 (API backend)** and **React (frontend)** — designed for scalability, clean architecture, and developer productivity.
+
+---
+
+## 🚀 Features
+
+- ⚡ Laravel 12 RESTful API backend
+- ⚛️ React (Vite) frontend integration
+- 🔒 Sanctum Authentication (API tokens)
+- 🧱 Modular folder structure for scalability
+- 🎨 Tailwind CSS for styling
+- 🧩 React Router v6 for navigation
+- 🧪 Axios for API requests
+- 🛠️ Docker-ready for local development
+- ✅ ESLint + Prettier + PHP-CS-Fixer setup
+- 🧰 Example CRUD implementation included
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| Backend | Laravel 12, PHP 8+, MySQL / PostgreSQL |
+| Frontend | React 18, Vite, Tailwind CSS |
+| API Auth | Laravel Sanctum |
+| Dev Tools | Docker, Composer, NPM/Yarn, Git |
+
+---
+
+## ⚙️ Installation Guide
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
